@@ -1,4 +1,4 @@
-package com.driver.Haha;
+package com.driver;
 
 public class Student {
 
